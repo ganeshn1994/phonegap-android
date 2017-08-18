@@ -9,7 +9,7 @@ define( function ( require ) {
 		theme : 'q-android',
 		version : '1.0',
 		app_title : 'Test',
-		app_platform : 'ios',
+		app_platform : 'android',
 		gmt_offset : 0,
 		debug_mode : 'off',
 		auth_key : 'put your unique phrase here',
